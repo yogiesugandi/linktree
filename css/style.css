@@ -21,7 +21,7 @@ body {
   font-family: "Nerko One", serif;
   font-style: auto;
   position: relative;
-  background-image: url(/img/bg2.webp);
+  background-image: url(../img/bg2.webp);
   background-size: cover;
   background-position: center;
 }
